@@ -2,7 +2,7 @@
 
 ## Install dependencies
 ```
-npm istall
+npm install
 ```
 
 ## Run application
